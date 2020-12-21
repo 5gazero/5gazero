@@ -1,35 +1,58 @@
-body {
-    margin: 0;
-    padding: 0;
+header {
+    background-color: tomato;
+    margin: 10px;
+    padding: 20px;
 }
-.header {
-    background-color: white;
-    border-bottom: 1px solid lightgrey;
+header nav {
+
 }
-.container {
-    width: 980px;
-    margin: auto;
+header nav ul {
+    display: flex;
 }
-.container-left {
-    padding-top: 20px;
-    padding-bottom: 20px;
+header nav ul li {
+    list-style: none;
+    margin: 10px;
 }
-.logo {
-    float: left;
-    margin-right: 5px;
+main {
+    display: flex;
 }
-.logo img {
+section {
+    width: 70%;
+    background: tomato;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+section h1 {
+    
+}
+article {
+    background: yellowgreen;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+article h1 {
+
+}
+article p {
+
+}
+aside {
+    width: 30%;
+    background: tomato;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+footer {
+    background: tomato;
+    margin: 10px;
+    padding: 20px;
+}
+footer address {
+
+}
+footer address a {
     display: block;
-}
-.menu {
-    float: left;
-}
-.menu-item {
-    float: left;
-    padding: 8px 10px;
-}
-.clearfix::after {
-    content: "";
-    display: block;
-    clear: both;
 }
