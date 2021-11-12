@@ -41,8 +41,8 @@
 </h5>
 <!-- &layout=compact -->
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5gazero&show_icons=true&locale=en&theme=material-palenight&layout=compact" alt="5gazero" /></span>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5gazero&show_icons=true&locale=en&theme=material-palenight&layout=compact" alt="5gazero" /></div>
 
-<span><img align="right" src="https://github-readme-stats.vercel.app/api?username=5gazero&show_icons=true&theme=material-palenight&locale=en" alt="5gazero" /></span>
+<div><img align="cneter" src="https://github-readme-stats.vercel.app/api?username=5gazero&show_icons=true&theme=material-palenight&locale=en" alt="5gazero" /></div>
 
-<!-- <div align="center"> <img src="https://komarev.com/ghpvc/?username=5gazero&label=Profile%20views&color=0e75b6&style=plastic" alt="5gazero" /> </div> -->
+<div align="right"> <img src="https://komarev.com/ghpvc/?username=5gazero&label=Profile%20views&color=0e75b6&style=plastic" alt="5gazero" /> </div>
