@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=5gazero&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="5gazero" /></p>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=5gazero&label=Profile%20views&color=0e75b6&style=plastic" alt="5gazero" /> </div>
+<!-- <div align="center"> <img src="https://komarev.com/ghpvc/?username=5gazero&label=Profile%20views&color=0e75b6&style=plastic" alt="5gazero" /> </div> -->
