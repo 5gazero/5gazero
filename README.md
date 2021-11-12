@@ -39,10 +39,10 @@
     &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </h5>
+<!-- &layout=compact -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5gazero&show_icons=true&locale=en&theme=material-palenight&layout=compact" alt="5gazero" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=5gazero&show_icons=true&theme=material-palenight&locale=en" alt="5gazero" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5gazero&show_icons=true&locale=en&theme=material-palenight" alt="5gazero" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=5gazero&show_icons=true&theme=material-palenight&locale=en" alt="5gazero" /></p>
 
 <!-- <div align="center"> <img src="https://komarev.com/ghpvc/?username=5gazero&label=Profile%20views&color=0e75b6&style=plastic" alt="5gazero" /> </div> -->
