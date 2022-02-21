@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm 5gazero</h1>
-<h3 align="center">A passionate Front-end Developer from Korea</h3>
-
 <h4 align="center"> “You can’t connect the dots looking forward; you can only connect them looking backward.</h3>
 <h4 align="center"> So you have to trust that the dots will somehow connect in your future.” - Steve Jobs </h3>
 
